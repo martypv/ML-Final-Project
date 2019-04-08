@@ -1,0 +1,2 @@
+# If you keep data files in a directory named data/ this will work so that we don't upload a shit ton of data to git
+data/
